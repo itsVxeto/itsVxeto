@@ -4,7 +4,7 @@
 
 ## My skills
 
-- **Linguaggi di programmazione**: Python, C++, Java, JavaScript, PhP, Lua, 
+- **Linguaggi di programmazione**: Python, C++, Java, JavaScript, PhP, Lua
 - **Framework/Librerie**: Bootstrap, TailwindCSS
 - **Database**: MySQL, MongoDB
 - **Strumenti**: Git, NPM
