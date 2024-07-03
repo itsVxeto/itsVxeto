@@ -1,4 +1,4 @@
-<img align="left" src="IMG_3811.jpeg" alt="ruby chan"  width="300px">
+<img align="left" src="IMG_3811.png" alt="ruby chan"  width="300px">
 
 # itsVxeto's GitHub Page
 
