@@ -5,7 +5,6 @@
 
 Welcome to my profile! I'm a junior developer that loves everything IT-related.
 
---
 
 ## Tech Stack
 
@@ -29,13 +28,11 @@ Welcome to my profile! I'm a junior developer that loves everything IT-related.
 
 *Watch them on repo*
 
---
 
 ## Contacts
 📧 Email:
 💼 LinkedIn:
 
---
 
 ## About Me
 
@@ -43,7 +40,6 @@ Welcome to my profile! I'm a junior developer that loves everything IT-related.
 - I'm currently focusing on C projects, but I also like to do websites.
 - Fun Fact: I also like drawing, skateboarding, science and solving rubik's cube.
 
---
 
 ## ☕ Do you like what I do? Buy me a coffee! :D
 
