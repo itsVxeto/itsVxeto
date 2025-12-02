@@ -30,8 +30,7 @@ Welcome to my profile! I'm a junior developer that loves everything IT-related.
 
 
 ## Contacts
-📧 Email:
-💼 LinkedIn:
+💼 LinkedIn: https://www.linkedin.com/in/vito-albergo/
 
 
 ## About Me
@@ -48,9 +47,3 @@ Welcome to my profile! I'm a junior developer that loves everything IT-related.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvxeto&label=Profile%20views&color=0e75b6&style=flat" alt="itsvxeto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvxeto" alt="itsvxeto" /></a> </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvxeto&show_icons=true&locale=en&layout=compact" alt="itsvxeto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvxeto&show_icons=true&locale=en" alt="itsvxeto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvxeto&" alt="itsvxeto" /></p>
